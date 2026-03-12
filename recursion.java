@@ -1,8 +1,8 @@
 class Solution {
     public static void printNumbers(int n) {
-        if (n == 0) return;          // base case
-        printNumbers(n - 1);         // recursive call
-        System.out.print(n + " ");  // print after recursion
+        if (n == 0) return;          
+        printNumbers(n - 1);         
+        System.out.print(n + " ");  
     }
 
     public static void main(String[] args) {
