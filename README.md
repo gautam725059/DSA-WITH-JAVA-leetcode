@@ -36,4 +36,3 @@ java Solution   # if Solution has main
 - `scripts/run-all.sh` for batch exercising all problems.
 
 ---
-*Enjoy building DSA fluency with Java!*
